@@ -1,0 +1,4 @@
+- sprint planning: Cuộc họp lên kế hoạch của đội dự án, nhằm xác định những gì cần hoàn thành trong Spring sắp tới.
+- Daily stand-up: Cũng được biết đến như “Daily Scrum”, một cuộc họp nhỏ 15 phút mỗi ngày để trao đổi công việc giữa đội phát triển.
+- Sprint demo: Một cuộc họp chia sẻ, nơi mà các thành viên chỉ ra những gì họ đã làm được trong Sprint đó
+- Sprint retrospective: Sự đánh giá, nhìn lại những điều đã làm được và chưa làm được của Sprint hiện tại, và đưa ra giải pháp hành động cho Sprint tiếp theo được tốt và hoàn thiện hơn
